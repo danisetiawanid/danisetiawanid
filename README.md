@@ -1,7 +1,8 @@
 # MUHAMAD DANI SETIAWAN :man_technologist:
+Mobile Developer Enthusiast.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-dani-setiawan-7bb234119/)](https://www.linkedin.com/in/muhamad-dani-setiawan-7bb234119/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=hhttps://www.instagram.com/danisetiawan_id/)](https://www.instagram.com/danisetiawan_id/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&logo=Instagram&logoColor=white&link=hhttps://www.instagram.com/danisetiawan_id/)](https://www.instagram.com/danisetiawan_id/)
 
 ### Hellooo! 👋 Welcome to my profile
 
@@ -24,7 +25,7 @@ My name is Dani and ... :
       </td>
       <td width="25%" align="center">
         <span>Android Studio</span><br><br> 
-        <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/androidstudio.svg">
+        <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/androidstudio.png">
       </td>
       <td width="25%" align="center">
         <span>Dart</span><br><br> 
