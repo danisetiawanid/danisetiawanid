@@ -25,7 +25,7 @@ My name is Dani and ... :
       </td>
       <td width="25%" align="center">
         <span>Android Studio</span><br><br> 
-        <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/androidstudio.png">
+        <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/androidstudio.svg">
       </td>
       <td width="25%" align="center">
         <span>Dart</span><br><br> 
