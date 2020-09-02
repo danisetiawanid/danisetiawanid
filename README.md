@@ -6,7 +6,7 @@ Mobile Developer Enthusiast.
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Dani and ... :
+My name is Muhamad Dani Setiawan
 
  - 😄 I really like to learn
  - 📊 I'm studying in CCIT - Faculty of Engineering University Indonesia & Asia E University
