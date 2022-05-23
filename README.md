@@ -13,7 +13,7 @@ My name is Muhamad Dani Setiawan
  - 📚 Currently studying Mobile Development
  - 🎵 And I also like to playing music
 
-![github stats](https://github-readme-stats.vercel.app/api?username=danisetiawanid&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=danisetiawanid&show_icons=true&theme=nightowl)
 
 ### Confidence Deep Understanding on :  
 <table>
