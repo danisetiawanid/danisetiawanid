@@ -13,9 +13,9 @@ My name is Muhamad Dani Setiawan
  - 📚 Currently studying Mobile Development
  - 🎵 And I also like to playing music
 
-<p align="center">
+<p align="start">
   <a href="https://danisetiawan.my.id/">
-    <img width="60.5%" src="https://github-contribution-stats.vercel.app/api/?username=yusriltakeuchi" alt="GitHub Contribution Stats"/>
+    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=danisetiawanid" alt="GitHub Contribution Stats"/>
   </a>
 </p>
 
