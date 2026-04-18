@@ -4,7 +4,6 @@ Mobile Developer Enthusiast.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-dani-setiawan-7bb234119/)](https://www.linkedin.com/in/muhamad-dani-setiawan-7bb234119/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&logo=Instagram&logoColor=white&link=hhttps://www.instagram.com/danisetiawan_id/)](https://www.instagram.com/danisetiawan_id/)
 
-### Hellooo! 👋 Welcome to my profile
 
 ### Confidence Deep Understanding on :  
 <table>
