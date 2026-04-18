@@ -9,21 +9,29 @@ Mobile Developer Enthusiast.
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="16%" align="center">
         <span>Java</span><br><br> 
         <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/java.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="16%" align="center">
         <span>Android</span><br><br> 
         <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/androidstudio.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="16%" align="center">
         <span>Dart</span><br><br> 
         <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/dart.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="16%" align="center">
         <span>Flutter</span><br><br> 
         <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/flutter.svg">
+      </td>
+      <td width="16%" align="center">
+        <span>Kotlin</span><br><br> 
+        <img height="84px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+      </td>
+      <td width="16%" align="center">
+        <span> Compose</span><br><br> 
+        <img height="84px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
       </td>
     </tr>
   </tbody>
