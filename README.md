@@ -6,19 +6,6 @@ Mobile Developer Enthusiast.
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Muhamad Dani Setiawan
-
- - 😄 I really like to learn
- - 📊 I'm studying in CCIT - Faculty of Engineering University Indonesia & Asia E University
- - 📚 Currently studying Mobile Development
- - 🎵 And I also like to playing music
-
-<p align="start">
-  <a href="https://danisetiawan.my.id/">
-    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=danisetiawanid" alt="GitHub Contribution Stats"/>
-  </a>
-</p>
-
 ### Confidence Deep Understanding on :  
 <table>
   <tbody>
