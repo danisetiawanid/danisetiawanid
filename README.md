@@ -23,15 +23,15 @@ Mobile Developer Enthusiast.
       </td>
       <td width="16%" align="center">
         <span>Flutter</span><br><br> 
-        <img height="84px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/flutter.svg">
+        <img height="60px" src="https://github.com/danisetiawanid/danisetiawanid/blob/master/assets/flutter.svg">
       </td>
       <td width="16%" align="center">
         <span>Kotlin</span><br><br> 
-        <img height="84px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+        <img height="154px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
       </td>
       <td width="16%" align="center">
         <span> Compose</span><br><br> 
-        <img height="84px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+        <img height="74px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
       </td>
     </tr>
   </tbody>
